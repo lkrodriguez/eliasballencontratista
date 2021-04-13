@@ -27,16 +27,11 @@ class indexController{
 				
 	}
 
-	public function proyectos (){
+	public function form_contacto (){
 		
-		require_once('view/proyectos.php');
+		require_once('view/form_contacto.php');
 				
 	}
-
-	
-
-
-
 
 	
 }

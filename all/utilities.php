@@ -26,7 +26,7 @@ $info[] =[
 ];
 
 
-/*fin datos del archivo index*/
+/*fin datos del archivo index articulos destacados*/
 
 
 
