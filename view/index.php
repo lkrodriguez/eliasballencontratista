@@ -1,7 +1,11 @@
 <?php
 include_once('./all/header.php');
 /*llama el archivo header el cual contiene los estilos booostrap*/
+include_once('./all/utilities.php');
+/*archivo onde se encuentran funciones */
 ?>
+
+
 
 
 <main>
@@ -58,41 +62,30 @@ include_once('./all/header.php');
   </div>
 
 
-  <!-- Marketing messaging and featurettes
-  ================================================== -->
-  <!-- Wrap the rest of the page in another container to center all the content. -->
+  
 
-  <div class="container marketing">
 
-    <!-- Three columns of text below the carousel -->
+  <div class="container marketing">  
     <div class="row">
-        <div class="col-lg-4">
-          <svg class="bd-placeholder-img rounded-circle" width="140" height="140" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: 140x140" preserveAspectRatio="xMidYMid slice" focusable="false"><title>Placeholder</title><rect width="100%" height="100%" fill="#777"></rect><text x="50%" y="50%" fill="#777" dy=".3em">140x140</text></svg>
+      <!-- Mensajes de marketing y artículos destacados -->
+           <?php foreach ($info as $info_principal) { ?>     
 
-          <h2>Nuestra Historia</h2>
-          <p>Some representative placeholder content for the three columns of text below the carousel. This is the first column.</p>
-          <p><a class="btn btn-secondary" href="?c=index&m=history">View details »</a></p>
-        </div><!-- /.col-lg-4 -->
+            <div class="col-lg-4">       
+               <img class="bd-placeholder-img rounded-circle" width="140" height="140" src="<?php echo $info_principal['img']  ?>">
+              <h2><?php echo $info_principal['name']  ?></h2>
+              <p><?php echo $info_principal['texto']  ?></p>
+              <p><a class="btn btn-secondary" href="<?php echo $info_principal['link']  ?>">Ver Más Detalles »</a></p>
+            </div><!-- /.col-lg-4 -->
 
-        <div class="col-lg-4">
-          <svg class="bd-placeholder-img rounded-circle" width="140" height="140" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: 140x140" preserveAspectRatio="xMidYMid slice" focusable="false"><title>Placeholder</title><rect width="100%" height="100%" fill="#777"></rect><text x="50%" y="50%" fill="#777" dy=".3em">140x140</text></svg>
-
-          <h2>Proyectos</h2>
-          <p>Another exciting bit of representative placeholder content. This time, we've moved on to the second column.</p>
-          <p><a class="btn btn-secondary" href="?c=index&m=proyectos">View details »</a></p>
-        </div><!-- /.col-lg-4 -->
-
-        <div class="col-lg-4">
-          <svg class="bd-placeholder-img rounded-circle" width="140" height="140" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: 140x140" preserveAspectRatio="xMidYMid slice" focusable="false"><title>Placeholder</title><rect width="100%" height="100%" fill="#777"></rect><text x="50%" y="50%" fill="#777" dy=".3em">140x140</text></svg>
-
-          <h2>Contactanos</h2>
-          <p>And lastly this, the third column of representative placeholder content.</p>
-          <p><a class="btn btn-secondary" href="?c=index&m=contact">View details »</a></p>
-        </div><!-- /.col-lg-4 -->
-    </div><!-- /.row -->
+        <?php  }   ?>
 
 
-    <!-- START THE FEATURETTES -->
+
+
+       
+
+
+ <!-- INICIAR LAS FUNCIONES -->
 
     <hr class="featurette-divider">
 
