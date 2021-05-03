@@ -33,6 +33,12 @@ class indexController{
 				
 	}
 
+	public function proyectos (){
+		
+		require_once('view/proyectos.php');
+				
+	}
+
 	
 }
 

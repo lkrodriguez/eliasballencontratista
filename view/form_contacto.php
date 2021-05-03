@@ -1,6 +1,9 @@
 <?php
 include_once('./all/header.php');
 /*llama el archivo header el cual contiene los estilos booostrap*/
+include_once('./all/utilities.php');
+/*archivo onde se encuentran funciones */
+
 $nombres =isset($_POST['nombres']) ? $_POST['nombres'] : '';
 $email =isset($_POST['email']) ? $_POST['email'] : '';
 $asunto =isset($_POST['asunto']) ? $_POST['asunto'] : '';

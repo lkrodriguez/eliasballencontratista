@@ -1,6 +1,8 @@
 <?php
 include_once('./all/header.php');
 /*llama el archivo header el cual contiene los estilos booostrap*/
+include_once('./all/utilities.php');
+/*archivo onde se encuentran funciones */
 ?>
 
 

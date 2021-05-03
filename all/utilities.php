@@ -1,6 +1,11 @@
 <?php 
+//inicio de galeria
+$img = dir("./img/galery");
+// variable que llama imagenes y muestra en galeria
+// fin de galeria
 
-$img = dir("./img/galery");// variable que lla imagenes y muestra en galeria
+
+
 
 /*datos del archivo index*/
 
@@ -24,11 +29,63 @@ $info[] =[
 	'texto' => 'Lorem ipsum dolor sit amet, consectetur adipisicing elit',
 	'link' => '?c=index&m=contact',
 ];
-
-
 /*fin datos del archivo index articulos destacados*/
 
 
+
+/*inicio de datos de portafolio*/
+
+$im = rand(1,3);
+//muestra las imgs aleatoriamente al acttualizar la pag portafolio name = apartamentos
+
+$imcm = rand(1,5);
+//muestra las imgs aleatoriamente al acttualizar la pag portafolio name = Locales Centro Medico
+
+$imd = rand(1,4);
+//muestra las imgs aleatoriamente al acttualizar la pag portafolio name = Diseño
+
+$imal = rand(1,2);
+//muestra las imgs aleatoriamente al acttualizar la pag portafolio name = Arreglos Locativos
+
+
+$portafolio[] =[
+	'name' => 'Enchapes',
+	'img' => './img/galery/DiapositivaBaños%20('.$im.').JPG',	
+	'texto' => '',
+];
+
+$portafolio[] =[
+	'name' => 'Locales Centro Medico',
+	'img' => './img/galery/DiapositivaCentroMedico%20('.$imcm.').JPG',	
+	'texto' => '',
+];
+
+$portafolio[] =[
+	'name' => 'Diseño',
+	'img' => './img/galery/DiapositivaParedesPiedra%20('.$imd.').JPG',	
+	'texto' => '',
+];
+
+$portafolio[] =[
+	'name' => 'Arreglos Locativos',
+	'img' => './img/galery/lavadero%20('.$imal.').JPG',	
+	'texto' => '',
+];
+/*fin de datos  de portafolio*/
+
+
+
+
+
+
+
+
+/*inicio footer*/
+//funcion sin parametros
+function say_year(){
+  return date('Y');
+}
+/*fin footer */
 
 
 
