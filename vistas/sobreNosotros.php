@@ -1,10 +1,10 @@
 <?php
-include_once('./all/header.php');
+include_once('./all/head.php');
 ?>
 
 
-
-<div class="container"" >
+<a name="sobreNosotros"></a>
+<div class="container">
     <h2>Sobre Nosotros</h2>
     <div class="flex">
         <div class="column__img">

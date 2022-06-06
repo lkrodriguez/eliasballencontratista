@@ -7,10 +7,11 @@ header{
     z-index: 2;
 }
 
-.promo .promo__span{
+.promo > h1{
     color: var(--theme-white);
-    font-size: 60px;
+    font-size: 48px;
     margin: auto  180px;
+    padding-top: 250px;
 }
 
 video{

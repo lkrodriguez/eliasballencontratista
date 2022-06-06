@@ -14,7 +14,7 @@
 
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Tiro+Devanagari+Marathi&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=STIX+Two+Text&display=swap" rel="stylesheet">
     
     <link rel="stylesheet" href="css/normalize.css">
     <link rel="stylesheet" href="css/estilos.css">
@@ -24,20 +24,17 @@
     <link rel="stylesheet" href="css/servicios.css">
     <link rel="stylesheet" href="css/contacto.css">
     <link rel="stylesheet" href="css/footer.css">
-
-
-
     
     <script defer src="https://kit.fontawesome.com/3a1e9ac6be.js" crossorigin="anonymous"></script> 
     <script defer  type="text/javascript" src="js/index.js"></script>
-
- 
     
     </head>
 <body>
 
     <header>
       <section class="promo" >
+        <h1>Lorem ipsum dolor sit.
+        </h1>
         <?php 
           require_once('all/navbar.php');
         ?>

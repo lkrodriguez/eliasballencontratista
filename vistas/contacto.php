@@ -1,7 +1,7 @@
 <?php
 include_once('./all/head.php');
 ?>
-
+<a name="contactos"></a>
 <div class="container__contacto">
             <h2>Contacto</h2>
             <p>

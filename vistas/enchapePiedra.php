@@ -8,11 +8,14 @@ include_once('./all/head.php');
                 <i class="fa-solid fa-arrow-left"></i>
             </a>                   
         </div>
-    <h2>Enchape en Piedra</h2>
+    <h2>Enchapes</h2>
     <div class="cards">
         <div class="card">
             <div class="card__header">
                 <img src="./img/chimenea _4.jpg" alt="Enchapada en Piedra">
+            </div>
+            <div class="card__detalles">
+                <h3>CAMBIAR IMG / DE PISO</h3>                
             </div>
         </div>
 
@@ -20,11 +23,26 @@ include_once('./all/head.php');
             <div class="card__header">
                 <img src="./img/remSalaEstar (3).jpeg" alt="Enchape en Piedra " >
             </div>
+            <div class="card__detalles">
+                <h3>CAMBIAR IMG / DE PISO</h3>                
+            </div>
         </div>
 
         <div class="card">
             <div class="card__header">
                 <img src="./img/remSalaEstar (1).jpeg" alt="Enchape en Piedra">
+            </div>
+            <div class="card__detalles">
+                <h3>CAMBIAR IMG / DE PISO</h3>                
+            </div>
+        </div>
+
+        <div class="card">
+            <div class="card__header">
+                <img src="./img/remSalaEstar (1).jpeg" alt="Enchape en Piedra">
+            </div>
+            <div class="card__detalles">
+                <h3>CAMBIAR IMG / DE PISO</h3>                
             </div>
         </div>
     </div> 

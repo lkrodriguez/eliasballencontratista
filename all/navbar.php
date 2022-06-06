@@ -18,12 +18,12 @@
          </a>
        </li>
         <li class="nav-ul__li" >
-          <a  href="?c=index&m=sobreNosotros">             
+          <a  href="#sobreNosotros">             
           Sobre 
          </a>
        </li>
         <li class="nav-ul__li">
-          <a href="?c=index&m=servicios">  
+          <a href="#servicios">  
             Servicios
           </a>
         </li>

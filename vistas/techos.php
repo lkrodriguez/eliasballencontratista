@@ -12,10 +12,30 @@ include_once('./all/head.php');
     <div class="cards">
         <div class="card">
             <div class="card__header">
-                <img class="img__mediana"   src="./img/cMedicokennedy (7).jpeg" alt="techos">
+                <img class="img__mediana"   src="./img/RemTechos (1).jpg" alt="techos">
             </div>
             <div class="card__detalles">
-                <h3>Pisos de Alto Trafico</h3>                
+                <h3>TECHO</h3>                
+            </div>
+        </div>
+
+        <div class="card">
+            <div class="card__header ">
+                <img class="img__mediana"   src="./img/RemTechos (2).jpg" alt="piso de porcelanato">
+            </div>
+            <div class="card__detalles">
+                <h3>TECHO</h3>                
+            </div>
+        </div>
+
+        
+
+        <div class="card">
+            <div class="card__header ">
+                <img src="./img/remPisos.jpg" alt="piso de porcelanato">
+            </div>
+            <div class="card__detalles">
+                <h3>TECHO</h3>                
             </div>
         </div>
 
@@ -24,25 +44,7 @@ include_once('./all/head.php');
                 <img src="./img/remPisos.jpg" alt="piso de porcelanato">
             </div>
             <div class="card__detalles">
-                <h3>Pisos en Porcelanato</h3>                
-            </div>
-        </div>
-
-        <div class="card">
-            <div class="card__header ">
-                <img src="./img/remPisos.jpg" alt="piso de porcelanato">
-            </div>
-            <div class="card__detalles">
-                <h3>Pisos en Porcelanato</h3>                
-            </div>
-        </div>
-
-        <div class="card">
-            <div class="card__header ">
-                <img src="./img/remPisos.jpg" alt="piso de porcelanato">
-            </div>
-            <div class="card__detalles">
-                <h3>Pisos en Porcelanato</h3>                
+                <h3>TECHO</h3>                
             </div>
         </div>
        
