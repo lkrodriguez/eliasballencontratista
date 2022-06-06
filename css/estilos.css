@@ -1,0 +1,14 @@
+:root{
+    --theme-decoracion: rgb(239,202,127);
+    --theme-black: rgb(0,0,0);
+    --theme-img: rgba(0,0,0,0.4);
+    --theme-white: rgb(255,255,255); 
+    --color-box: rgba(0, 0, 0, 50);
+    --theme-capa: rgba(0,0,0,0.7);   
+}
+
+*{
+    font-family: 'Tiro Devanagari Marathi', serif;
+}
+
+

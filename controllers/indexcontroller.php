@@ -5,39 +5,80 @@ class indexController{
 	
 	public function index (){
 		
-		require_once('view/index.php');
+		require_once('vistas/index.php');
 				
 	}
 
-	public function history (){
+	public function sobreNosotros (){
 		
-		require_once('view/history.php');
+		require_once('vistas/sobreNosotros.php');
 				
 	}
 
-	public function galery (){
+	public function servicios (){
 		
-		require_once('view/galery.php');
+		require_once('vistas/servicios.php');
 				
 	}
 
-	public function contact (){
+	public function galeria (){
 		
-		require_once('view/contact.php');
+		require_once('vistas/galeria.php');
 				
 	}
 
-	public function form_contacto (){
+	public function contacto (){
 		
-		require_once('view/form_contacto.php');
+		require_once('vistas/contacto.php');
+				
+	}
+	public function contactos (){
+		
+		require_once('vistas/contactos.php');
+				
+	}
+	public function enchape_en_piedra (){
+		
+		require_once('vistas/enchapePiedra.php');
+				
+	}
+	public function remodelaciones (){
+		
+		require_once('vistas/remodelaciones.php');
+				
+	}
+	public function instalacion_de_pisos (){
+		
+		require_once('vistas/pisos.php');
+				
+	}
+	public function instalacion_de_techos (){
+		
+		require_once('vistas/techos.php');
+				
+	}
+	public function centro_medico (){
+		
+		require_once('vistas/centroMedico.php');
+				
+	}
+	public function servicio_de_pintura (){
+		
+		require_once('vistas/pinturas.php');
+				
+	}
+	public function drywall (){
+		
+		require_once('vistas/drywall.php');
+				
+	}
+	public function arreglo_locativo (){
+		
+		require_once('vistas/locativo.php');
 				
 	}
 
-	public function proyectos (){
-		
-		require_once('view/proyectos.php');
-				
-	}
+	
 
 	
 }

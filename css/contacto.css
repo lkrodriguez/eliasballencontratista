@@ -1,0 +1,50 @@
+.container__contacto{
+    color: var(--theme-white);
+    padding: 60px 60px;
+    background-color:var(--theme-black);
+    border-top: 1px solid var(--theme-decoracion) ;  
+    border-bottom: 1.2px solid var(--theme-decoracion) ;
+    text-align: center;
+    height: 100vh;
+}
+p strong{
+    color: var(--theme-decoracion);
+    line-height: 30px;
+}
+
+.botom > a{
+    color: var(--theme-white);
+    text-decoration: none;
+    background-color: var(--theme-decoracion);
+    padding: 20px 25px;    
+}
+
+.botom{
+    padding: 20px 10px;
+    margin: 25px;
+    font-size: 20px;
+}
+.botom a >i{
+    align-items: center;
+    margin-left: 50px;
+}
+.link{    
+    margin: 10px;   
+    font-size: 18px; 
+}
+.link a{
+    color: var(--theme-white);
+    text-decoration: none;
+    font-size: 18px;
+    line-height: 25px;
+}
+.link a > i{
+    font-size:25px;
+    margin-right: 10px;
+    font-weight:10px;
+}
+.link  > i{
+    font-size:20px;
+    margin-right: 10px;
+    font-weight:10px;
+}
