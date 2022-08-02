@@ -79,7 +79,7 @@ include_once('./all/header.php');
 
         <div class="card">
             <div class="card__header">
-                <img src="./img/chimenea _4.jpg" alt="Enchape en Piedra a Chimenea" >
+                <img src="./img/pintura.jpg" alt="Enchape en Piedra a Chimenea" >
             </div>
             <div class="card__detalles">
                 <h3>Servicio de Pintura</h3>
@@ -93,7 +93,7 @@ include_once('./all/header.php');
 
         <div class="card">
             <div class="card__header">
-                <img src="./img/chimenea _4.jpg" alt="Enchape en Piedra a Chimenea" >
+                <img class="img__mediana" src="./img/drywall.jpg" alt="Enchape en Piedra a Chimenea" >
             </div>
             <div class="card__detalles">
                 <h3>Trabajos en Drywall</h3>

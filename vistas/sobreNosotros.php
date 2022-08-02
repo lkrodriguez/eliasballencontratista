@@ -11,7 +11,15 @@ include_once('./all/head.php');
             <img src="./img/imgSobre.jpeg" alt="" srcset="">
         </div>
         <div class="column__text">
-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Atque odit laboriosam blanditiis earum quidem enim porro eaque esse impedit libero illo ex, beatae dolor reiciendis accusantium provident fuga! Temporibus deserunt tenetur dignissimos! Officia, debitis. Pariatur deserunt reprehenderit amet quos laboriosam ea veritatis quis delectus maiores, labore quidem totam nihil. Rem, voluptas? Laboriosam corporis obcaecati voluptatibus accusamus nulla. Hic laboriosam quibusdam voluptatum sed recusandae numquam dolore, sint placeat voluptatem perferendis, amet ea laborum quos commodi impedit sit dolorum suscipit quae reiciendis aliquam quisquam eius. Nobis labore ipsa, dicta numquam debitis accusamus ab mollitia quibusdam minima ad iure officia !</p>
+            <p>
+                Somos una empresa con más de 20 años de experiencia en las diferentes areas de la Constructión prestando los servicios de Remodelación & Arreglos Locativos. 
+            </p>
+            <p>                
+             Trabajamos comprometidos cada dia para ofrecer el mejor servicio y asi lograr un producto de calidad y la satisfacción de nuestros clientes.  
+            </p>
+            <p>
+            El cumplimiento, Resposabilidad y puntualidad son algunos de los pilares que nos caracterizan asi generando tranquilidad en las personas que confian en nosotros.
+            </p>
         </div>
     </div>
     

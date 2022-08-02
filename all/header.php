@@ -33,7 +33,9 @@
 
     <header>
       <section class="promo" >
-        <h1>Lorem ipsum dolor sit.
+        <h1>
+          La alegría de construir <br>
+           siempre lo mejor.
         </h1>
         <?php 
           require_once('all/navbar.php');

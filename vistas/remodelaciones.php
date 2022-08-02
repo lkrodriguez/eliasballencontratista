@@ -11,7 +11,7 @@ include_once('./all/head.php');
     <h2>Remodelaciones</h2>
     <div class="cards">
         <div class="card">
-            <div class="card__header">
+            <div class="card__header img__mediana">
                 <img src="./img/remodelacionBaño (3).jpg" alt="Chimenea Enchapada en Piedra" srcset="">
             </div>
             <div class="card__detalles">
@@ -20,7 +20,7 @@ include_once('./all/head.php');
         </div>
 
         <div class="card">
-            <div class="card__header">
+            <div class="card__header img__mediana  ">
                 <img src="./img/remCocina (3).jpg" alt="Chimenea Enchapada en Piedra" srcset="">
             </div>
             <div class="card__detalles">
@@ -49,6 +49,6 @@ include_once('./all/head.php');
 
     </div> 
     <p>
-        Lorem ipsum dolor sit, amet consectetur adipisicing elit. Labore provident pariatur, facilis laboriosam placeat alias omnis corrupti reprehenderit nisi? Error quidem dolorum ducimus impedit, perspiciatis deleniti facilis quaerat temporibus. Quo quis accusantium, delectus aut dolor laboriosam non cum quia illum facere. Vitae quas corrupti nam tenetur atque maxime odit neque?
+    Todo lo relacionado con la Construcción.
     </p>                    
  </div>

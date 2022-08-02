@@ -12,7 +12,7 @@ include_once('./all/head.php');
     <div class="link">        
         <a href="http://wa.me/573203635745?text=Hola,%20estoy%20interesado%20en%20su%20Servicios" target="_blank">
              <i class="fa-brands fa-whatsapp"></i>
-            Escribeme a mi WhatsApp ó haz Click aqui  <br><b>320 3635745 </b>
+            Escribeme a mi WhatsApp <b>320 3635745 / 302 5731981 </b> ó haz Click aqui  <br>
         </a>
     </div>
     <div class="link">

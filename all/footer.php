@@ -10,7 +10,7 @@ function say_year(){
             <div class="item">
                 <h3>Sobre Nosotros</h3>
                 <span>
-                    Lorem ipsum, dolor sit amet consectetur adipisicing elit. Nemo, officia!
+                Somos una empresa con más de 20 años de experiencia en las diferentes areas de la Constructión prestando los servicios de Remodelación & Arreglos Locativos. 
                 </span>
             </div>
             <div class="item">
@@ -18,16 +18,19 @@ function say_year(){
                 <span>Celular: (57) 320 3635745 / 302 5731981</span>
                 <span>Lunes a Viernes</span>
                 <span>8:00 a.m – 5:30 p.m</span>
-                <span>Sabados y Domingos</span>
-                <span>Dejar Mensaje en WhatsApp ó Email </span>
-                <span>Nos ubicamos en la ciudad de bogota, pero trabajanos a nivel Nacional</span>
+                <span>Nos ubicamos en la ciudad de bogota</span>
+                <span>Trabajamos a Nivel Nacional</span>
+                <span>Trabajos y Cumplimiento Garantizados</span>
             </div>
             <div class="item">
                 <h3>Servicios</h3>
                 <span>Mantenimiento Preventivo</span>
                 <span>Arreglos Locativos</span>
+                <span>Trabajos en Drywall</span>
+                <span>Servicio de Pintura</span>
+                <span>Construcción / Remodelación  de Diferentes Areas</span>
+                <span>Instalación / Mantenimiento de Techos</span>
                 <span>Servicio de Limpieza</span>
-                <span>Trabajamos a Nivel Nacional</span>
             </div>
 
         </div>

@@ -12,45 +12,28 @@ include_once('./all/head.php');
     <div class="cards">
         <div class="card">
             <div class="card__header">
-                <img class="img__mediana"   src="./img/RemTechos (1).jpg" alt="techos">
+                <img class="img__med"   src="./img/RemTechos (1).jpg" alt="techos">
             </div>
             <div class="card__detalles">
-                <h3>TECHO</h3>                
+                <h3>Instalación de Techo PVC</h3>                
             </div>
         </div>
 
         <div class="card">
             <div class="card__header ">
-                <img class="img__mediana"   src="./img/RemTechos (2).jpg" alt="piso de porcelanato">
+                <img class="img__med"   src="./img/RemTechos (2).jpg" alt="piso de porcelanato">
             </div>
             <div class="card__detalles">
-                <h3>TECHO</h3>                
+                <h3>Estucado de Techo</h3>                
             </div>
         </div>
 
         
 
-        <div class="card">
-            <div class="card__header ">
-                <img src="./img/remPisos.jpg" alt="piso de porcelanato">
-            </div>
-            <div class="card__detalles">
-                <h3>TECHO</h3>                
-            </div>
-        </div>
-
-        <div class="card">
-            <div class="card__header ">
-                <img src="./img/remPisos.jpg" alt="piso de porcelanato">
-            </div>
-            <div class="card__detalles">
-                <h3>TECHO</h3>                
-            </div>
-        </div>
        
 
     </div> 
     <p>
-        Lorem ipsum dolor sit, amet consectetur adipisicing elit. Labore provident pariatur, facilis laboriosam placeat alias omnis corrupti reprehenderit nisi? Error quidem dolorum ducimus impedit, perspiciatis deleniti facilis quaerat temporibus. Quo quis accusantium, delectus aut dolor laboriosam non cum quia illum facere. Vitae quas corrupti nam tenetur atque maxime odit neque?
+    Todo lo relacionado con la Construcción.
     </p>                    
  </div>

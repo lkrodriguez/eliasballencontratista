@@ -5,8 +5,8 @@
     border-top: 1px solid var(--theme-decoracion) ;  
 }
 h2{
-    margin: 30px;
-    font-size: 50px;
+    margin: 25px;
+    font-size: 40px;
     color: var(--theme-decoracion)
 }
 .flex{
@@ -18,17 +18,21 @@ h2{
 
 .column__img{
     width: 300px;
-    height: 600px;
+    height: 500px;
     margin: 20px 15px; 
+    background-size: cover;
 }
-
 .column__img img{    
-    height: 100%;
-    width: 100%;
-    object-fit: cover;
+    height: 80%;
+    width: 90%;
+    /*object-fit: cover;*/
 }
 .column__text{    
     width: 600px;
     height: 400px;
-    margin: 20px 15px;
+    margin: 20px 65px;
+}
+.column__text p{
+    font-size: 18px;  
+    padding: 10px;
 }
